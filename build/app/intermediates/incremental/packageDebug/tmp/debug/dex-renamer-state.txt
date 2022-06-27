@@ -1,0 +1,4 @@
+#Mon Jun 20 21:52:25 WIB 2022
+base.0=/media/fajarsidik/Data/Documents/Kuliah/SMT6/Mobile Programming/mobcontact/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
